@@ -1,0 +1,2 @@
+C:/Users/DELL/StudioProjects/khana_peena/android/app/.cxx/Debug/2p5g1p65/x86/CMakeFiles/edit_cache.dir
+C:/Users/DELL/StudioProjects/khana_peena/android/app/.cxx/Debug/2p5g1p65/x86/CMakeFiles/rebuild_cache.dir

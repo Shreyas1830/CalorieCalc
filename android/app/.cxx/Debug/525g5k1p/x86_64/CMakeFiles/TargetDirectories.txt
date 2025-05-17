@@ -1,0 +1,2 @@
+D:/khana_peena/android/app/.cxx/Debug/525g5k1p/x86_64/CMakeFiles/edit_cache.dir
+D:/khana_peena/android/app/.cxx/Debug/525g5k1p/x86_64/CMakeFiles/rebuild_cache.dir

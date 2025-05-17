@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "553271918280",
+    "project_id": "fitnesssathi",
+    "storage_bucket": "fitnesssathi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553271918280:android:bcfaf854f0986d4b462ffd",
+        "android_client_info": {
+          "package_name": "com.example.khana_peena"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs9hTW4MIfghB5Np0ZPxTwBG3nWjHgbwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553271918280:android:29f3467a41cdcdd3462ffd",
+        "android_client_info": {
+          "package_name": "com.me.swasth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs9hTW4MIfghB5Np0ZPxTwBG3nWjHgbwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
